@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/elizabethtarazona/Desktop/AndroidUdacity/ud843-QuakeReport/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="942f2d45f846c6a0ad7580e862b1074c780e4736">
+        <dex dex="/Users/elizabethtarazona/Desktop/AndroidUdacity/ud843-QuakeReport/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0a5607b25e41790da6041dda2089d4a0ba1fe8a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/elizabethtarazona/Desktop/AndroidUdacity/ud843-QuakeReport/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/elizabethtarazona/Desktop/AndroidUdacity/ud843-QuakeReport/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a60cee111b7ddee9fdf045c4b0f214c5e8684656/classes.dex" />
+    </item>
+
+</items>
